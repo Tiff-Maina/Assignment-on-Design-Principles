@@ -1,4 +1,4 @@
-// This is the code snippet that follows the O — pen/Closed Principle
+ // This is the code snippet that follows the O — pen/Closed Principle
 // To add a new shape, we just need to create a new class that implements Shape.
 // This means AreaCalculator no longer needs to be changed when new shapes are added.
 // So, the system is now open for extension and closed for modification
