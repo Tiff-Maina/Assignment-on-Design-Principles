@@ -1,7 +1,9 @@
+package Single_Responsibility_Principle.Adhering_Code;
 //Single Responsibility Principle (SRP)
 //Code snippet adhering to this principle.
 
 //Product is only responsible for holding product data.
+
 public class Product {
     private String name;
     private double price;
